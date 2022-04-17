@@ -5,9 +5,28 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background: pink; */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+div{
+  height: 300px;
+  width: 600px;
+  background: pink;
+  margin: auto;
+}
+h1{
+  text-align: center;
+  
+
+}
+
+p{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bolder;
+
 }
